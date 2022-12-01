@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 require('dotenv').config()
 const os = require('os')
 const express = require('express')
@@ -402,4 +401,3 @@ const interval = setInterval(function () {
 
 
 /* clearInterval(interval); */
->>>>>>> 601247cb8a9cdcde81406279cce89a488a7fa1a0
