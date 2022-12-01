@@ -1,59 +1,58 @@
 [
-    {
-      "label": "US1",
-      "ip": "127.0.0.1",
-      "mac": "20:DE:20:DE:20:DE",
-      "online": true,
-      "lastUpdate": "2022-11-21T00:56:20.497Z",
-      "lastCheck": "2022-11-21T00:56:20.497Z"
-    },
-    {
-      "label": "US2",
-      "ip": "22.0.0.231",
-      "mac": "20:DE:20:DE:20:DE",
-      "online": true,
-      "lastUpdate": "2022-11-21T00:56:20.497Z",
-      "lastCheck": "2022-11-21T00:56:20.497Z"
-    },
-    {
-      "label": "US2",
-      "ip": "107.20.251.22",
-      "mac": "20:DE:20:DE:20:DE",
-      "online": true,
-      "lastUpdate": "2022-11-21T00:56:20.497Z",
-      "lastCheck": "2022-11-21T00:56:20.497Z"
-    },
-    {
-      "label": "US3",
-      "ip": "2s2.0.0.231",
-      "mac": "20:DE:20:DE:20:DE",
-      "online": false,
-      "lastUpdate": "2022-11-21T00:56:20.497Z",
-      "lastCheck": "2022-11-21T00:56:20.497Z"
-    },
-    {
-      "label": "US1",
-      "ip": "127.0.0.1",
-      "mac": "20:DE:20:DE:20:DE",
-      "online": true,
-      "lastUpdate": "2022-11-21T00:56:20.497Z",
-      "lastCheck": "2022-11-21T00:56:20.497Z"
-    },
-    {
-      "label": "US1",
-      "ip": "123123.0.0.1",
-      "mac": "20:DE:20:DE:20:DE",
-      "online": false,
-      "lastUpdate": "2022-11-21T00:56:20.497Z",
-      "lastCheck": "2022-11-21T00:56:20.497Z"
-    },
-    {
-      "label": "US1",
-      "ip": "127.0.0.1",
-      "mac": "20:DE:20:DE:20:DE",
-      "online": true,
-      "lastUpdate": "2022-11-21T00:56:20.497Z",
-      "lastCheck": "2022-11-21T00:56:20.497Z"
-    }
-[
-   
+  {
+    "label": "US1",
+    "ip": "127.0.0.1",
+    "mac": "20:DE:20:DE:20:DE",
+    "online": true,
+    "lastUpdate": "2022-11-21T00:56:20.497Z",
+    "lastCheck": "2022-11-21T00:56:20.497Z"
+  },
+  {
+    "label": "US2",
+    "ip": "22.0.0.231",
+    "mac": "20:DE:20:DE:20:DE",
+    "online": true,
+    "lastUpdate": "2022-11-21T00:56:20.497Z",
+    "lastCheck": "2022-11-21T00:56:20.497Z"
+  },
+  {
+    "label": "US2",
+    "ip": "107.20.251.22",
+    "mac": "20:DE:20:DE:20:DE",
+    "online": true,
+    "lastUpdate": "2022-11-21T00:56:20.497Z",
+    "lastCheck": "2022-11-21T00:56:20.497Z"
+  },
+  {
+    "label": "US3",
+    "ip": "2s2.0.0.231",
+    "mac": "20:DE:20:DE:20:DE",
+    "online": false,
+    "lastUpdate": "2022-11-21T00:56:20.497Z",
+    "lastCheck": "2022-11-21T00:56:20.497Z"
+  },
+  {
+    "label": "US1",
+    "ip": "127.0.0.1",
+    "mac": "20:DE:20:DE:20:DE",
+    "online": true,
+    "lastUpdate": "2022-11-21T00:56:20.497Z",
+    "lastCheck": "2022-11-21T00:56:20.497Z"
+  },
+  {
+    "label": "US1",
+    "ip": "123123.0.0.1",
+    "mac": "20:DE:20:DE:20:DE",
+    "online": false,
+    "lastUpdate": "2022-11-21T00:56:20.497Z",
+    "lastCheck": "2022-11-21T00:56:20.497Z"
+  },
+  {
+    "label": "US1",
+    "ip": "127.0.0.1",
+    "mac": "20:DE:20:DE:20:DE",
+    "online": true,
+    "lastUpdate": "2022-11-21T00:56:20.497Z",
+    "lastCheck": "2022-11-21T00:56:20.497Z"
+  }
+]
